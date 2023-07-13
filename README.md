@@ -48,6 +48,8 @@
 + ` apt-get install git python python-pip -y ` [For Termux]
 + ` apt-get install git python3 python3-pip -y ` [For Linux]
 + ` pip install instaloader `
++ ` pip install tabulate `
++ 
 + ` git clone https://github.com/MrHacker-X/osintifyX.git `
 + ` cd OsintifyX `
 + ` nano credx.py `
