@@ -60,6 +60,9 @@
 
 ![photo](https://i.ibb.co/wdgdmqJ/Screenshot-2023-07-13-16-44-13.png)
 
+## Note
++ This is not complete version
+
 ## Terms & Conditions
 
 + Before you use this tool, read [Terms and Conditions](https://github.com/MrHacker-X/OsintifyX/blob/main/TERMS.md) first.
