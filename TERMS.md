@@ -29,4 +29,4 @@
 
     + Use OsintifyX responsibly, respect the privacy of others, and abide by all applicable laws and regulations. Together, let's explore the world of Instagram with integrity and ethical conduct.
 
-      +  `Last updated: 15 july 2023`
+      +  `Last updated: 13 july 2023`
