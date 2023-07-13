@@ -1,6 +1,6 @@
 <h1 align="center">OsintifyX</h1>
 
-<p align="center">
+<p align="center"> 
   <img src="https://img.shields.io/github/stars/MrHacker-X/OsintifyX?style=for-the-badge&color=orange">
   <img src="https://img.shields.io/github/forks/MrHacker-X/OsintifyX?color=cyan&style=for-the-badge&color=purple">
   <img src="https://img.shields.io/github/watchers/MrHacker-X/OsintifyX?color=cyan&style=for-the-badge&color=purple">
