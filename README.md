@@ -70,7 +70,7 @@
 
 ## Disclaimer
 
-+ This tool is intended for educational and ethical purposes only. The developers of OsintifyX are not responsible for any misuse or illegal activities carried out with this tool. Use it responsibly and respect the privacy of others.
++ This Tool is Not 100% Accurate so it can fail somtimes. Also this tool is made for educational and research purposes only, i do not assume any kind of responsibility for any imprope use of this tool.
 
 ## Contribution
 
