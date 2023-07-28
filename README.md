@@ -76,10 +76,6 @@
 
 + Contributions to OsintifyX are always welcome! If you find any issues or have suggestions for improvement, please open an issue on the GitHub repository. Feel free to fork the project and submit pull requests as well.
 
-## Acknowledgements
-
-+ We would like to thank all the contributors who have helped in the development of OsintifyX and made it a useful tool for the OSINT community.
-
 ## Donation
 
 ███ BTC, USDT, LTC, ETH ███ (BEP20)
